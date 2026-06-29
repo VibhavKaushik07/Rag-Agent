@@ -1,0 +1,1 @@
+### This is a RAG AGENT. That is designed to use the GEMINI API KEY. I have removed the GEMINI KEY for security reasons feel free to add yours and if you want to train this RAG on different document you can do that as well my changing the location of the folder to the document of your choice.
