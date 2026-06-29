@@ -1,0 +1,22 @@
+Course Title: Introduction to Machine Learning (CS401)
+Instructor: Dr. Alan Turing
+Office Hours: Tuesdays and Thursdays, 2:00 PM - 4:00 PM in Room 4B.
+
+Course Description:
+This course provides a comprehensive introduction to machine learning and statistical pattern recognition. Topics include supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs); and reinforcement learning.
+
+Grading Criteria:
+- Homework Assignments: 30%
+- Midterm Exam: 30%
+- Final Project: 40%
+
+Important Dates:
+- Midterm Exam: October 15th, in-class.
+- Final Project Proposal Due: November 1st.
+- Final Project Presentations: December 10th and 12th.
+
+Late Policy:
+Homework assignments submitted late will receive a 10% penalty per day. No assignments will be accepted after 3 days past the deadline. Exceptions are only made for documented medical emergencies.
+
+Prerequisites:
+Students must have completed CS201 (Data Structures) and MATH301 (Linear Algebra) with a grade of B or higher. Basic proficiency in Python is strictly required.
